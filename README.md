@@ -1,5 +1,5 @@
 # test-repo
 Testing the various Git options
-  *Testing bullets
-  
-  # New Heading
+Test below
+* Testing bullets
+# New Heading
